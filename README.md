@@ -1,6 +1,6 @@
 # Analysis: _Comparative Political Data Set (1960–2022)_
 
-## Overview 1
+## Overview
 
 This project investigates the relationship between economic indicators, government spending, and electoral outcomes 
 using the _Comparative Political Data Set_ (CPD) covering 1960–2022. It seeks to uncover how shifts in macroeconomic 
