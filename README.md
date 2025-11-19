@@ -158,4 +158,4 @@ structured causal inference design-laying the groundwork for predictive modeling
   (CPD) 1960–2022’, Zurich/Lueneburg/Lucerne: University of Zurich, Leuphana University Lueneburg, and University of Lucerne.
 
 ## Authors
-Jan H. Schüttler (Linkedin), Behzad Nematipour (Linkedin) 
+Jan H. Schüttler (Linkedin), Behzad Nematipour ([linkedin](https://linkedin.com/in/behzad-nematipour-99b8b4399)) 
