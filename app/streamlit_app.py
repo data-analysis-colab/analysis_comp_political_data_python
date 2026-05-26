@@ -420,6 +420,7 @@ st.markdown("---")
 st.markdown(
     "<div style='text-align: center;'>"
     "<a href='https://cpds-data.org/'>Dataset</a> • "
+    "<a href='https://github.com/data-analysis-colab/analysis_comp_political_data_python'>GitHub</a> • "
     "<a href='https://www.linkedin.com/in/jan-heinrich-sch%C3%BCttler-64b872396/'>LinkedIn</a>"
     "</div>",
     unsafe_allow_html=True
