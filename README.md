@@ -13,7 +13,7 @@ The analysis is structured in three stages:
 2. **Preliminary Correlation Exploration**
 3. **In-Depth Analysis of Predictive Indicators**
 
-🔗 **Live Dashboard:** [Streamlit App Link]()  
+🔗 **Live Dashboard:** [Streamlit App Link](https://comppoliticaldataanalysis.streamlit.app/)  
 
 ## Skills Demonstrated
 
